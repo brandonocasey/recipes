@@ -1,0 +1,25 @@
+name: 'Buffalo Wing Sauce'
+description: 'Super Tasty butter based Buffalo Sauce'
+todo: 
+	- Document salt for a good taste
+  - Document servings (Wings per recipe)
+source: 'http://allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/'
+servings: '3'
+ingredients:
+  - {name: 'Hot Pepper Sauce', size: 'Cup', amount: '2/3'}
+  - {name: 'Unsalted Butter', size: 'Cup', amount: '1/2'}
+  - {name: 'White Vinegar', size: 'Tablespoon', amount: '3/2'}
+  - {name: 'Worcestershire Sauce', size: 'Teaspoon', amount: '1/4'}
+  - {name: 'Cayenne Pepper', size: 'Teaspoon', amount: '1/4'}
+  - {name: 'Garlic Powder', size: 'Teaspoon', amount: '1/8'}
+  - {name: 'Salt', size: 'Teaspoon', amount: '1/4', special: 'to taste'}
+steps:
+  - text: 'Mix all ingredients in a pot'
+    time: '1'
+  - text: 'Heat to a simmer while stirring, when sides boil its done'
+  	time: '5'
+    temperature: {stove: 'Medium-High'}
+  - text: 'Wait to cool'
+    time: '10'
+  - text: 'Mix with your wings in a bowl'
+    time: '1'
