@@ -26,3 +26,4 @@
 	* Italian Breadcrumbs into Regular
 	* etc
 * User definable values for Stove Measurements eg Medium == 5
+* Preperation/Tools required
