@@ -1,31 +1,26 @@
-description: 'Goes great as a replacement to beef meatballs for any dish'
-changelog:
-  - Changed Onion Salt to 1 part onion powder and 3 parts salt
-  - Use salted butter specifically
-images:
-  - 'image1.jpg'
-source: 'http://www.food.com/recipe/garlic-parmesan-chicken-wings-287041?scaleto=12.0&st=null&mode=us'
-servings: '3'
+description: 'Goes great as a replacement to beef meatballs in italian dishes'
+todo:
+  - 'Alter Recipe so that we get firmer meatballs'
+source: 'http://www.yummly.com/recipe/Classic-turkey-meatballs-334004?columns=2&position=1%2F9'
+servings: '4'
 ingredients:
-  - {name: 'Salted Butter', measurement: 'Cup', amount: '1/4'}
-  - {name: 'Garlic Powder', measurement: 'Teaspoon', amount: '1'}
-  - {name: 'Salt', measurement: 'Teaspoon', amount: '3/8' special: 'add 1/8 for unsalted butter'}
-  - {name: 'Onion Powder', measurement: 'Teaspoon', amount: '1/8'}
-  - {name: 'Pepper', measurement: 'Teaspoon', amount: '1/4'}
-  - {name: 'Parmesan Cheese', measurement: 'Cup', amount: '1/2'}
-  - {name: 'Black Pepper', measurement: 'Teaspoon', amount: '1/4'}
-  - {name: 'Wings', measurement: 'Count', amount: '24'}
+  - {name: 'Garlic Cloves', size: 'Count', amount: '4', special: 'Small, Minced'}
+  - {name: 'Egg', size: 'Count', amount: '1'}
+  - {name: 'Italian Bread Crumbs', size: 'Cup', amount: '1/3', special: 'add 1/2 tbsp parsley if normal'}
+  - {name: 'Parmesan Cheese', size: 'Cup', amount: '1/3'}
+  - {name: 'Salt', size: 'Teaspoon', amount: '1'}
+  - {name: 'Ground Turkey', size: 'Pound', amount: '1'}
+  - {name: 'Parsley', size: 'Tablespoon', amount: '1'}
 steps:
-  - text: 'Melt the butter'
-    time: '5'
-    interval: 'Minute'
-    temperature: {stove: 'High'}
-  - text: 'Whisk Seasonings into the butter'
-    time: '1'
-    interval: 'Minute'
-  - text: 'Add wings to the bowl and mix'
-    time: '1'
-    interval: 'Minute'
-  - text: 'Top with the Parmesan Cheese'
-    time: '30'
+  - text: 'Preheat Oven'
+    time: '10'
     interval: 'Seconds'
+    temperature: {degree:{type: 'F',  number: '350'}
+  - text: 'Spray a Cookie Sheet and lay it out next to the bowl'
+    time: '1'
+  - text: 'Mix ingredients in a bowl, if too wet add more breadcrumbs'
+    time: '5'
+  - text: 'Form into Balls, 3 tablespoons in size, and place on the Cookie Sheet'
+    time: '10'
+  - text: 'Bake for 20 Minutes or until fully cooked (no pink)'
+    time: '20'
