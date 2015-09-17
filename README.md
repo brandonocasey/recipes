@@ -5,3 +5,4 @@
 * automatically include images
 * measurement -> size
 * temperature == optional
+* name optional
