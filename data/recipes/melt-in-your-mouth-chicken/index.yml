@@ -4,7 +4,7 @@ changelog:
   - 'increase heat (375 -> 425) and decrease cook time (45 -> 30)'
 todo:
   - 'Test with half greek yogurt, half mayo'
-source: 'http://www.yummly.com/recipe/Classic-turkey-meatballs-334004?columns=2&position=1%2F9'
+source: 'http://thecookinchicks.com/2014/03/melt-in-your-mouth-chicken/'
 servings: '4'
 ingredients:
   - {name: 'Chicken Breasts', size: 'Count', amount: '4'}
