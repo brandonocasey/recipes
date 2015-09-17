@@ -5,25 +5,22 @@ changelog:
 source: 'http://www.food.com/recipe/garlic-parmesan-chicken-wings-287041?scaleto=12.0&st=null&mode=us'
 servings: '3'
 ingredients:
-  - {name: 'Salted Butter', measurement: 'Cup', amount: '1/4'}
-  - {name: 'Garlic Powder', measurement: 'Teaspoon', amount: '1'}
-  - {name: 'Salt', measurement: 'Teaspoon', amount: '3/8' special: 'add 1/8 for unsalted butter'}
-  - {name: 'Onion Powder', measurement: 'Teaspoon', amount: '1/8'}
-  - {name: 'Pepper', measurement: 'Teaspoon', amount: '1/4'}
-  - {name: 'Parmesan Cheese', measurement: 'Cup', amount: '1/2'}
-  - {name: 'Black Pepper', measurement: 'Teaspoon', amount: '1/4'}
-  - {name: 'Wings', measurement: 'Count', amount: '24'}
+  - {name: 'Salted Butter', size: 'Cup', amount: '1/4'}
+  - {name: 'Garlic Powder', size: 'Teaspoon', amount: '1'}
+  - {name: 'Salt', size: 'Teaspoon', amount: '3/8' special: 'add 1/8 for unsalted butter'}
+  - {name: 'Onion Powder', size: 'Teaspoon', amount: '1/8'}
+  - {name: 'Pepper', size: 'Teaspoon', amount: '1/4'}
+  - {name: 'Parmesan Cheese', size: 'Cup', amount: '1/2'}
+  - {name: 'Black Pepper', size: 'Teaspoon', amount: '1/4'}
+  - {name: 'Wings', size: 'Count', amount: '24'}
 steps:
   - text: 'Melt the butter'
     time: '5'
-    interval: 'Minute'
     temperature: {stove: 'High'}
   - text: 'Whisk Seasonings into the butter'
     time: '1'
-    interval: 'Minute'
   - text: 'Add wings to the bowl and mix'
     time: '1'
-    interval: 'Minute'
   - text: 'Top with the Parmesan Cheese'
     time: '30'
     interval: 'Seconds'
