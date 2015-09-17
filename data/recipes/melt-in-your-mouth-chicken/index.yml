@@ -1,0 +1,31 @@
+description: 'Super amazing chicken, just try not to add too much salt'
+changelog:
+  - 'lowered salt to 1 teaspoon'
+  - 'increase heat (375 -> 425) and decrease cook time (45 -> 30)'
+todo:
+  - 'Test with half greek yogurt, half mayo'
+source: 'http://www.yummly.com/recipe/Classic-turkey-meatballs-334004?columns=2&position=1%2F9'
+servings: '4'
+ingredients:
+  - {name: 'Chicken Breasts', size: 'Count', amount: '4'}
+  - {name: 'Mayo', size: 'Cup', amount: '1'}
+  - {name: 'Parmesan Cheese', size: 'Cup', amount: '1/2'}
+  - {name: 'Salt', size: 'Teaspoon', amount: '1'}
+  - {name: 'Black Pepper', size: 'Teaspoon', amount: '1/2'}
+  - {name: 'Garlic Powder', size: 'Teaspoon', amount: '1'}
+steps:
+  - text: 'Preheat Oven'
+    time: '10'
+    interval: 'Seconds'
+    temperature: {degree:{type: 'F',  number: '425'}
+  - text: 'Spray a Cookie Sheet and lay it out next to a bowl'
+    time: '1'
+  - text: 'Lay raw chicken out on the cookie sheet'
+    time: '2'
+  - text: 'Mix other ingredients in the bowl'
+    time: '5'
+  - text: 'Spread mixture over the top of the chicken (only the top)'
+    time: '3'
+  - text: 'Cook for 30 minutes or until very brown on the top'
+    time: '30'
+    inctive: true
