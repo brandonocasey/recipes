@@ -7,6 +7,7 @@
 * temperature == optional
 * name optional
 * inactive (for a not completely active step, like baking)
+* step.optional_end == (optionally end here or go on)
 
 # Proposed Features
 * Measurement Conversion
