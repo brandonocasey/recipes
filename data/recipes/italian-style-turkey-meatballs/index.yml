@@ -1,7 +1,8 @@
 description: 'Goes great as a replacement to beef meatballs in italian dishes'
 todo:
   - 'Alter Recipe so that we get firmer meatballs'
-source: 'http://www.yummly.com/recipe/Classic-turkey-meatballs-334004?columns=2&position=1%2F9'
+sources:
+  - 'http://www.yummly.com/recipe/Classic-turkey-meatballs-334004?columns=2&position=1%2F9'
 servings: '4'
 ingredients:
   - {name: 'Garlic Cloves', size: 'Count', amount: '4', special: 'Small, Minced'}

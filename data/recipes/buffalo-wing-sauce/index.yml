@@ -2,7 +2,8 @@ description: 'Super Tasty butter based Buffalo Sauce'
 todo:
   - Document salt for a good taste
   - Document servings (Wings per recipe)
-source: 'http://allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/'
+sources:
+  - 'http://allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/'
 servings: '3'
 ingredients:
   - {name: 'Hot Pepper Sauce', size: 'Cup', amount: '2/3'}

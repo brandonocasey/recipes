@@ -11,6 +11,7 @@
 * step.optional (optional but recommended step)
 * handle individual item folders
 * add links to anything in individual folders to individual piece
+* source -> sources
 
 # Proposed Features
 * Measurement Conversion

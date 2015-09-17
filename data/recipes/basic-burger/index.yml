@@ -1,7 +1,8 @@
 description: 'Really good starter for Beef or Turkey Burgers, also good in bulk to freeze'
 changelog:
   - 'Alter recipe to include turkey or beef'
-source: 'http://www.foodrepublic.com/recipes/best-basic-burger-recipe/'
+sources:
+  - 'http://www.foodrepublic.com/recipes/best-basic-burger-recipe/'
 servings: '4'
 ingredients:
   - {name: 'Ground Beef or Turkey', size: 'Pounds', amount: '3/2'}
