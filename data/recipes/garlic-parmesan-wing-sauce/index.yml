@@ -2,8 +2,6 @@ description: 'Super Tasty butter based Garlic Parmesan Sauce'
 changelog:
   - Changed Onion Salt to 1 part onion powder and 3 parts salt
   - Use salted butter specifically
-images:
-  - 'image1.jpg'
 source: 'http://www.food.com/recipe/garlic-parmesan-chicken-wings-287041?scaleto=12.0&st=null&mode=us'
 servings: '3'
 ingredients:
