@@ -1,7 +1,6 @@
-name: 'Garlic Parmesan Wing Sauce'
 description: 'Super Tasty butter based Garlic Parmesan Sauce'
-changelog: 
-	- Changed Onion Salt to 1 part onion powder and 3 parts salt
+changelog:
+  - Changed Onion Salt to 1 part onion powder and 3 parts salt
   - Use salted butter specifically
 images:
   - 'image1.jpg'
@@ -22,11 +21,11 @@ steps:
     interval: 'Minute'
     temperature: {stove: 'High'}
   - text: 'Whisk Seasonings into the butter'
-  	time: '1'
-  	interval: 'Minute'
+    time: '1'
+    interval: 'Minute'
   - text: 'Add wings to the bowl and mix'
-	time: '1'
-	interval: 'Minute'
+    time: '1'
+    interval: 'Minute'
   - text: 'Top with the Parmesan Cheese'
-  	time: '30'
-  	interval: 'Seconds'  
+    time: '30'
+    interval: 'Seconds'

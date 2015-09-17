@@ -1,7 +1,6 @@
-name: 'Buffalo Wing Sauce'
 description: 'Super Tasty butter based Buffalo Sauce'
-todo: 
-	- Document salt for a good taste
+todo:
+  - Document salt for a good taste
   - Document servings (Wings per recipe)
 source: 'http://allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/'
 servings: '3'
@@ -17,7 +16,7 @@ steps:
   - text: 'Mix all ingredients in a pot'
     time: '1'
   - text: 'Heat to a simmer while stirring, when sides boil its done'
-  	time: '5'
+    time: '5'
     temperature: {stove: 'Medium-High'}
   - text: 'Wait to cool'
     time: '10'
