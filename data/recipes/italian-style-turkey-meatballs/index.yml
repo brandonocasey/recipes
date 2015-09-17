@@ -16,7 +16,7 @@ steps:
     time: '10'
     interval: 'Seconds'
     temperature: {degree:{type: 'F',  number: '350'}
-  - text: 'Spray a Cookie Sheet and lay it out next to the bowl'
+  - text: 'Spray a Cookie Sheet and lay it out next to a bowl'
     time: '1'
   - text: 'Mix ingredients in a bowl, if too wet add more breadcrumbs'
     time: '5'
