@@ -8,6 +8,7 @@
 * name optional
 * inactive (for a not completely active step, like baking)
 * step.optional_end == (optionally end here or go on)
+* step.optional (optional but recommended step)
 * handle individual item folders
 * add links to anything in individual folders to individual piece
 
