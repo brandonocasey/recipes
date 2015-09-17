@@ -8,6 +8,8 @@
 * name optional
 * inactive (for a not completely active step, like baking)
 * step.optional_end == (optionally end here or go on)
+* handle individual item folders
+* add links to anything in individual folders to individual piece
 
 # Proposed Features
 * Measurement Conversion
