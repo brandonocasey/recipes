@@ -24,3 +24,4 @@ steps:
     time: '10'
   - text: 'Bake for 20 Minutes or until fully cooked (no pink)'
     time: '20'
+    inactive: true

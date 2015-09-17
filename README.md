@@ -6,6 +6,7 @@
 * measurement -> size
 * temperature == optional
 * name optional
+* inactive (for a not completely active step, like baking)
 
 # Proposed Features
 * Measurement Conversion

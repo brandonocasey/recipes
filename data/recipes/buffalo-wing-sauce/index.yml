@@ -20,5 +20,6 @@ steps:
     temperature: {stove: 'Medium-High'}
   - text: 'Wait to cool'
     time: '10'
+    inactive: true
   - text: 'Mix with your wings in a bowl'
     time: '1'
