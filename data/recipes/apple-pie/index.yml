@@ -1,0 +1,39 @@
+description: 'This is a continously impoving recipe for apple pie. Nearly everytime I make it a try something new but I only keep what people enjoy'
+changelog:
+  - ''
+sources:
+  - 'http://allrecipes.com/recipe/220997/chef-johns-caramel-apple-pie/reviews/4010951/'
+  - 'http://sweets.seriouseats.com/2011/10/the-food-lab-what-are-the-best-apples-for-apple-pies-how-to-make-pie.html'
+  - 'http://www.seriouseats.com/recipes/2011/10/perfect-apple-pie-recipe-double-crusted-thanksgiving-dessert.html'
+  - 'http://sweets.seriouseats.com/2011/10/the-food-labs-apple-pie-part-2-how-to-make-perfect-apple-pie-filling.html'
+servings: '4'
+ingredients:
+  - {name: 'Ground Beef or Turkey', size: 'Pounds', amount: '3/2'}
+  - {name: 'Egg', size: 'Count', amount: '1'}
+  - {name: 'Seasoned(Any) Bread Crumbs', size: 'Cup', amount: '3/4'}
+  - {name: 'Parmesan Cheese', size: 'Cup', amount: '1/3'}
+  - {name: 'Salt', size: 'Teaspoon', amount: '3/4'}
+  - {name: 'Worcestershire Sauce', size: 'Tablespoon', amount: '1'}
+steps:
+  - text: 'Preheat grill or Stove (with pan) if cooking right away'
+    time: '10'
+    interval: 'Seconds'
+    temperature: {stove: 'High'}
+  - text: 'Get out a bowl and a cookie sheet or plate'
+    time: '1'
+  - text: 'Mix ingredients in a bowl, if too wet add more breadcrumbs'
+    time: '5'
+  - text: 'Form into 4 burger shapes (or balls and use a burger shaper)'
+    time: '10'
+  - text: 'Seperate with Wax/Plastic insert into ziploc, and freeze'
+    optional_end: true
+    time: '5'
+  - text: 'Cook'
+    time: '10'
+    inactive: true
+  - text: 'Flip'
+    time: '1'
+  - text: 'Cook'
+    time: '10'
+    inactive: true
+
